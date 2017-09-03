@@ -1,2 +1,3 @@
 console.log(11);
-function getWay (){}
+console.log(12);
+
